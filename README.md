@@ -1,4 +1,3 @@
-# kavelin-textbook
-Problem-modular lessons for pupils
+# Учебник
 
-test
+Проблемно-модульные уроки для школьников по основным предметам

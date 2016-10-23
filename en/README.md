@@ -1,3 +1,3 @@
-# Учебник
+# Textbook
 
-Проблемно-модульные уроки для школьников по основным предметам
+Problem-modular lessons for pupils in core subjects

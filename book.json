@@ -1,5 +1,5 @@
  {
- 	"plugins": ["theme-api", "disqus", "exercises"],
+ 	"plugins": ["theme-api", "disqus"],
  	"pluginsConfig": {
  		"theme-api": {
  			"languages": [{

@@ -3,12 +3,12 @@
  	"pluginsConfig": {
  		"theme-api": {
  			"languages": [{
- 				"lang": "js",
- 				"name": "JavaScript",
+ 				"lang": "zadacha",
+ 				"name": "Задача",
  				"default": true
  			}, {
- 				"lang": "go",
- 				"name": "Go"
+ 				"lang": "reshenie",
+ 				"name": "Решение"
  			}]
  		}
  	}

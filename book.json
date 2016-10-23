@@ -1,7 +1,4 @@
  {
- 	"title": ["Textbook"],
- 	"description": ["Problem-modular lessons"],
- 	"author": ["Kavelin Academy"],
  	"plugins": ["theme-api"],
  	"pluginsConfig": {
  		"theme-api": {

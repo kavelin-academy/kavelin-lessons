@@ -1,5 +1,5 @@
  {
- 	"plugins": ["theme-api", "disqus"],
+ 	"plugins": ["theme-api", "discourse-external-integration"],
  	"pluginsConfig": {
  		"theme-api": {
  			"languages": [{
@@ -11,8 +11,8 @@
  				"name": "Решение"
  			}]
  		},
-            "disqus": {
-                "shortName": "kavelin-academy"
+            "discourse-external-integration": {
+                "discourseUrl": "https://community.kavelin.academy/"
         }
  	}
  }

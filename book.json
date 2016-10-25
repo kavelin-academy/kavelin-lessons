@@ -1,5 +1,5 @@
  {
- 	"plugins": ["theme-api", "discourse-external-integration"],
+ 	"plugins": ["theme-api", "discourse"],
  	"pluginsConfig": {
  		"theme-api": {
  			"languages": [{
@@ -11,8 +11,11 @@
  				"name": "Решение"
  			}]
  		},
-            "discourse-external-integration": {
-                "discourseUrl": "https://community.kavelin.academy"
+            "discourse": {
+                "url": "https://community.kavelin.academy",
+                "api_key": "96ba169c251e771fb06c0f56382f64c80a481373ce4c6075f4da05e8f2365c39",
+                "api_username": "lev",
+                "parent_category_id": 5
         }
  	}
  }

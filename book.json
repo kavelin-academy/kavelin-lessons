@@ -12,7 +12,7 @@
  			}]
  		},
             "discourse-external-integration": {
-                "discourseUrl": "https://community.kavelin.academy/"
+                "discourseUrl": "https://community.kavelin.academy"
         }
  	}
  }

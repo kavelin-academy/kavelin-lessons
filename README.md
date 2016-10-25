@@ -1,2 +1,2 @@
-# Problem-modular lessons / Проблемно-модульные уроки
-
+# Problem-modular lessons
+Проблемно-модульные уроки

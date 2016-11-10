@@ -1,18 +1,12 @@
  {
- 	"plugins": ["theme-api", "disqus"],
+ 	"plugins": ["theme-default", "disqus", "ga"],
  	"pluginsConfig": {
- 		"theme-api": {
- 			"languages": [{
- 				"lang": "zadacha",
- 				"name": "Задача",
- 				"default": true
- 			}, {
- 				"lang": "reshenie",
- 				"name": "Решение"
- 			}]
- 		},
             "disqus": {
                 "shortName": "kavelin-academy"
+        },
+            "ga": {
+            "token": "UA-54348072-4",
+            "configuration": "auto"
         }
  	}
  }

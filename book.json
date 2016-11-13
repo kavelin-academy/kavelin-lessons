@@ -2,7 +2,7 @@
  	"plugins": ["theme-api", "disqus", "ga"],
  	"pluginsConfig": {
             "theme-api": {
-            "split": "true"
+            "split": true
             },
             "disqus": {
                 "shortName": "kavelin-academy"

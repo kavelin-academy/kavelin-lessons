@@ -2,18 +2,18 @@
  	"plugins": ["theme-api", "disqus", "ga"],
  	"pluginsConfig": {
             "theme-api": {
-            "split": true,
             "languages": [
               {
-              "lang": "js",          // sample lang argument
-              "name": "JavaScript",  // corresponding name to be displayed
-              "default": true        // default language to show
+              "lang": "js",
+              "name": "JavaScript",
+              "default": true
               },
               {
               "lang": "go",
               "name": "Go"
               }
-             ]
+             ],
+            "split": true
             },
             "disqus": {
                 "shortName": "kavelin-academy"

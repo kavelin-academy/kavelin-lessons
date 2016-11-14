@@ -12,3 +12,6 @@
 	border-bottom:none;
 	transition:opacity .3s ease
 }
+.book.font-family-1 {
+  font-family: 'Noto Sans', Helvetica, Arial, sans-serif;
+}

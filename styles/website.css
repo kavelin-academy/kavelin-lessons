@@ -1,0 +1,14 @@
+.book.two-columns .api-method .api-method-definition {
+	float:left;
+	width:65%
+}
+.book.two-columns .api-method .api-method-code {
+	position:relative;
+	float:left;
+	width:35%;
+	padding:30px 30px 15px;
+	border-left:1px solid #F1EFEF;
+	border-top:none;
+	border-bottom:none;
+	transition:opacity .3s ease
+}

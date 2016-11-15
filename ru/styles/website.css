@@ -12,6 +12,15 @@
 	border-bottom:none;
 	transition:opacity .3s ease
 }
+.book-header {
+	font-family: 'Noto Sans', Helvetica, Arial, sans-serif;
+}
+.book-summary {
+  	font-family: 'Noto Sans', Helvetica, Arial, sans-serif;
+}
 .book.font-family-1 {
-  font-family: 'Noto Sans', Helvetica, Arial, sans-serif;
+	font-family: 'Noto Sans', Helvetica, Arial, sans-serif;
+}
+body {
+    font-family: 'Noto Sans', arial, sans-serif;
 }

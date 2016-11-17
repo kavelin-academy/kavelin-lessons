@@ -9,7 +9,7 @@
 
 ### ЗВУКИ И БУКВЫ
 
-* [Произношение и запись звуков](russian-language/01-Proiznoshenie-i-zapis-zvukov.md)
+    * [Произношение и запись звуков](russian-language/01-Proiznoshenie-i-zapis-zvukov.md)
 
 ### СЛОВО
 

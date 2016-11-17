@@ -3,9 +3,8 @@
 * [kavelin//academy](http://kavelin.academy)
 * [Проблемно-модульные уроки](README.md)
 
-----
-* [Русский язык](russian-language/README.md)
-----
+### [Русский язык](russian-language/README.md)
+
 * ЗВУКИ И БУКВЫ
    * [Произношение и запись звуков](russian-language/01-Proiznoshenie-i-zapis-zvukov.md)
 * СЛОВО

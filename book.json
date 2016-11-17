@@ -4,13 +4,13 @@
             "theme-api": {
             "languages": [
               {
-              "lang": "js",
-              "name": "JavaScript",
+              "lang": "nt",
+              "name": "Подсказки на полях",
               "default": true
               },
               {
-              "lang": "go",
-              "name": "Go"
+              "lang": "ex",
+              "name": "Упражнения"
               }
              ],
             "split": true

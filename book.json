@@ -1,5 +1,5 @@
  {
- 	"plugins": ["theme-api", "disqus", "ga", "youtube", "sharing"],
+ 	"plugins": ["theme-api", "disqus", "ga", "youtubex", "sharing"],
  	"pluginsConfig": {
             "theme-api": {
             "languages": [

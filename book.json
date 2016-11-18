@@ -1,5 +1,5 @@
  {
- 	"plugins": ["theme-api", "disqus", "ga", "youtube"],
+ 	"plugins": ["theme-api", "disqus", "ga", "youtube", "sharing"],
  	"pluginsConfig": {
             "theme-api": {
             "languages": [
@@ -21,6 +21,14 @@
             "ga": {
             "token": "UA-54348072-4",
             "configuration": "auto"
-            }
+            },
+			"sharing":{
+				"facebook":true,
+				"twitter":true,
+				"google":false,
+				"weibo":false,
+				"instapaper":false,
+				"vk":true,
+				"all":["facebook","google","twitter","weibo","instapaper"]}
      	}
  }

@@ -4,8 +4,6 @@
 
 #### Зачем нужно знать Русский язык?
 
-{%youtube%}BgfgpyIPpMk{%endyoutube%}
-
 {% sample lang="nt" -%} 
 
 *Содержание курса:*
@@ -39,3 +37,5 @@
   * Служебные части речи и междометие
 
 {% endmethod %}
+
+{%youtube%}BgfgpyIPpMk{%endyoutube%}

@@ -58,6 +58,10 @@
   * Наречие
   * Служебные части речи и междометие
 
+{% sample lang="ex" -%} 
+
+Секретные ссылки
+
 {% endmethod %}
 
 {%youtube%}BgfgpyIPpMk{%endyoutube%}

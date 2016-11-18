@@ -3,7 +3,7 @@
 {% method -%}
 #### Зачем нужно знать Русский язык?
 
-{% youtube %}BgfgpyIPpMk{% endyoutube %}
+{%youtube%}BgfgpyIPpMk{%endyoutube%}
 
 {% sample lang="nt" -%} 
 *Содержание курса:*

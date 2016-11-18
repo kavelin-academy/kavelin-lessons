@@ -2,6 +2,7 @@
 
 * [kavelin//academy](http://kavelin.academy)
 * [Проблемно-модульные уроки](README.md)
+* Авторы
 
 ### РУССКИЙ ЯЗЫК
 

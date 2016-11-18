@@ -60,6 +60,8 @@
 
 {% sample lang="ex" -%} 
 
+:-) 
+
 {% endmethod %}
 
 {%youtube%}BgfgpyIPpMk{%endyoutube%}

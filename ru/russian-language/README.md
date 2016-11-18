@@ -60,8 +60,6 @@
 
 {% sample lang="ex" -%} 
 
-Секретные ссылки
-
 {% endmethod %}
 
 {%youtube%}BgfgpyIPpMk{%endyoutube%}

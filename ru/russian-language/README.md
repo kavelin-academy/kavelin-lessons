@@ -31,7 +31,7 @@
 *Содержание курса:*
 
 * Звуки и буквы
-  * [Произношение и запись звуков](russian-language/01-Proiznoshenie-i-zapis-zvukov.md)
+  * [Произношение и запись звуков](https://lessons.kavelin.academy/ru/russian-language/01-Proiznoshenie-i-zapis-zvukov.md)
 * Слово
   * Из чего состоит слово
   * Значение слова (лексика)

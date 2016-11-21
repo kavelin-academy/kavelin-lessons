@@ -1,21 +1,21 @@
  {
- 	"plugins": ["theme-api", "disqus", "ga", "youtubex", "sharing"],
+ 	"plugins": ["theme-api", "disqus", "ga", "youtubex", "sharing", "github-edit"],
  	"pluginsConfig": {
-            "theme-api": {
-            "languages": [
-              {
-              "lang": "nt",
-              "name": "Подсказки на полях",
-              "default": true
-              },
-              {
-              "lang": "ex",
-              "name": "Упражнения"
-              }
-             ],
-            "split": true
+           "theme-api": {
+           "languages": [
+             	 {
+     	         "lang": "nt",
+        	      "name": "Подсказки на полях",
+            	  "default": true
+             	 },
+            	  {
+             	 "lang": "ex",
+             	 "name": "Упражнения"
+            	  }
+              ],
+           "split": true
             },
-            "disqus": {
+           "disqus": {
                 "shortName": "kavelin-academy"
             },
             "ga": {
@@ -29,6 +29,11 @@
 				"weibo":false,
 				"instapaper":false,
 				"vk":true,
-				"all":["facebook","google","twitter","weibo","instapaper"]}
+				"all":["facebook","google","twitter","weibo","instapaper"]
+			},
+			"github-edit": {
+            "repo": "kavelin-academy/lessons",
+            "branch": "master"
+       		 }
      	}
  }

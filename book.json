@@ -1,5 +1,5 @@
- {
- 	"plugins": ["theme-api", "disqus", "ga", "youtubex", "sharing", "github-edit"],
+{
+    "plugins": ["theme-api", "disqus", "ga", "youtubex", "sharing", "quiz"],
  	"pluginsConfig": {
            "theme-api": {
            "languages": [
@@ -31,9 +31,21 @@
 				"vk":true,
 				"all":["facebook","google","twitter","weibo","instapaper"]
 			},
-			"github-edit": {
-            "repo": "kavelin-academy/lessons",
-            "branch": "master"
-       		 }
-     	}
+	  "quiz": {
+            "labels": {
+                "check": "Проверить ответы",
+                "showExplanation": "Объяснить",
+                "showCorrect": "Показать ответы",
+                "explanationHeader": "Объяснение"
+            },
+            "text": {
+                "noChosen": "Выберите хотя бы один ответ",
+                "incomplete": "Некоторые правильные ответы пропущены"
+            },
+            "buttons": {
+                "showCorrect": true,
+                "showExplanation": true
+            }
+        },
+     }
  }

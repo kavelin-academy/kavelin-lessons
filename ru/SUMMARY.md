@@ -6,9 +6,8 @@
 
 ### РУССКИЙ ЯЗЫК
 
-* [Введение](russian-language/README.md)
+* [Введение](language/russian/README.md)
 * Звуки и буквы
-  * [Произношение и запись звуков](russian-language/01-Proiznoshenie-i-zapis-zvukov.md)
   * [Произношение и запись звуков](language/russian/01-Proiznoshenie-i-zapis-zvukov.md)
 * Слово
   * Из чего состоит слово

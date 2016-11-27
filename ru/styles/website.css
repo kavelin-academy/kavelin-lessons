@@ -30,3 +30,11 @@
 .markdown-section table tr {
 	border-top:0px solid #ccc;
 }
+.quiz {
+	padding-left: 0px;
+	margin-bottom: 0px;
+}
+.quiz-question {
+	border-bottom: 0px solid #E7EAED;
+	padding-bottom: 30px;
+}

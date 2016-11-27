@@ -62,7 +62,7 @@
 
 **Фоне́тика** *(от греч. phone ‒ звук) изучает звуки речи. В русском языке 6 гласных и 36 согласных звуков.*
 
-{% sample lang="test" -%}
+{% sample lang="practise" -%}
 
 <quiz>
     <question multiple>
@@ -93,7 +93,7 @@
 [ударение], [катлета], [сахар]
 ```
 
-{% sample lang="test" -%}
+{% sample lang="practise" -%}
 
 <quiz>
     <question>
@@ -107,8 +107,6 @@
         <answer correct>Образовывать слог и способствовать удобству произношения</answer>
     </question>
 </quiz>
-
-{% sample lang="practise" -%}
 
 **Выдели гласные звуки в предложении**
 
@@ -155,7 +153,7 @@
 молоток → м_л_т_к, согласные → с_гл_сн_
 ```
 
-{% sample lang="test" -%}
+{% sample lang="practise" -%}
 
 <quiz>
     <question>
@@ -169,8 +167,6 @@
         <answer>Образовывать слог и способствовать удобству произношения</answer>
     </question>
 </quiz>
-
-{% sample lang="practise" -%}
 
 **Составьте словосочетание с каждым словом**
 
@@ -245,7 +241,7 @@
 
 **Сергей Иванович Ожегов**, 1900-1964, лингвист
 
-{% sample lang="test" -%}
+{% sample lang="practise" -%}
 
 <quiz>
     <question multiple>
@@ -255,8 +251,6 @@
         <answer correct>Из двух и более звуков</answer>
     </question>
 </quiz>  
-
-{% sample lang="practise" -%}
 
 **Раздели на слоги и поставьте ударение**
 
@@ -308,7 +302,7 @@
 приго́рок → пр[и]го́рок
 ```
 
-{% sample lang="test" -%}
+{% sample lang="practise" -%}
 
 <quiz>
     <question>
@@ -317,8 +311,6 @@
         <answer correct>у, и, ы</answer>
     </question>
 </quiz>  
-
-{% sample lang="practise" -%}
 
 **Поставь ударение и составь транскрипцию**
 
@@ -352,7 +344,7 @@
 гриб → грибник → грибок→ грибки, грибной
 ```
 
-{% sample lang="test" -%}
+{% sample lang="practise" -%}
 
 <quiz>
     <question>
@@ -361,8 +353,6 @@
         <answer correct>Когда согласный звонкий звук стоит в конце слова или перед глухим согласным</answer>
     </question>
 </quiz>  
-
-{% sample lang="practise" -%}
 
 **Что происходит с выделенной согласной?**
 
@@ -428,7 +418,7 @@
 | Ъ — твердый знак | Ы — ы | Ь — мягкий знак |
 | Э — э | Ю — ю | Я — я |
 
-{% sample lang="test" -%}
+{% sample lang="practise" -%}
 
 <quiz>
     <question>
@@ -437,8 +427,6 @@
         <answer correct>Звуков</answer>
     </question>
 </quiz>  
-
-{% sample lang="practise" -%}
 
 **Составь транскрипцию**
 

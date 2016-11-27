@@ -1,55 +1,51 @@
 {
-    "plugins": ["theme-api", "disqus", "ga", "youtubex", "sharing", "quiz"],
+	"plugins": ["theme-api", "disqus", "ga", "youtubex", "sharing", "quiz"],
  	"pluginsConfig": {
-           "theme-api": {
-           "languages": [
-             	 {
-     	         "lang": "notes",
-        	      "name": "Подсказки на полях",
-            	  "default": true
-             	 },
-            	  {
-             	 "lang": "test",
-             	 "name": "Тесты"
-            	  },
-		 {
-             	 "lang": "practise",
-             	 "name": "Упражнения"
-            	  }
-              ],
-           "split": true
-            },
-           "disqus": {
-                "shortName": "kavelin-academy"
-            },
-            "ga": {
-            "token": "UA-54348072-4",
-            "configuration": "auto"
-            },
-			"sharing":{
-				"facebook":true,
-				"twitter":true,
-				"google":false,
-				"weibo":false,
-				"instapaper":false,
-				"vk":true,
-				"all":["facebook","google","twitter","weibo","instapaper"]
+		"theme-api": {
+			"languages": [
+				{
+				"lang": "notes",
+				"name": "Подсказки на полях",
+				"default": true
+				},
+				{
+				"lang": "practise",
+				"name": "Упражнения"
+				}
+			],
+				"split": true
+		},
+		"disqus": {
+			"shortName": "kavelin-academy"
+		},
+		"ga": {
+			"token": "UA-54348072-4",
+			"configuration": "auto"
+		},
+		"sharing":{
+			"facebook":true,
+			"twitter":true,
+			"google":false,
+			"weibo":false,
+			"instapaper":false,
+			"vk":true,
+			"all":["facebook","google","twitter","weibo","instapaper"]
+		},
+		"quiz": {
+			"labels": {
+				"check": "Проверить ответы",
+				"showExplanation": "Объяснить",
+				"showCorrect": "Показать ответы",
+				"explanationHeader": "Объяснение"
 			},
-	  "quiz": {
-            "labels": {
-                "check": "Проверить ответы",
-                "showExplanation": "Объяснить",
-                "showCorrect": "Показать ответы",
-                "explanationHeader": "Объяснение"
-            },
-            "text": {
-                "noChosen": "Выберите хотя бы один ответ",
-                "incomplete": "Некоторые правильные ответы пропущены"
-            },
-            "buttons": {
-                "showCorrect": true,
-                "showExplanation": true
-            }
-        }
-     }
- }
+			"text": {
+				"noChosen": "Выберите хотя бы один ответ",
+				"incomplete": "Некоторые правильные ответы пропущены"
+			},
+			"buttons": {
+				"showCorrect": true,
+				"showExplanation": true
+			}
+		}
+	}
+}

@@ -21,3 +21,12 @@
 .book.font-family-1 {
 	font-family: 'Noto Sans', Helvetica, Arial, sans-serif;
 }
+.markdown-section table th {
+	font-weight:400;
+}
+.markdown-section table td,.markdown-section table th {
+	border:0px solid #ddd;
+}
+.markdown-section table tr {
+	border-top:0px solid #ccc;
+}

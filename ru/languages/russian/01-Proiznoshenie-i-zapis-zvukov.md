@@ -20,6 +20,8 @@
 
 Давайте разберемся:
 
+{%youtube%}fQZsPCm3Xjw{%endyoutube%}
+
 {% sample lang="notes" -%}
 
 Узнаешь, какие бывают звуки речи и как их записывать.
@@ -40,7 +42,7 @@
 
 {% endmethod %}
 
-{%youtube%}fQZsPCm3Xjw{%endyoutube%}
+
 
 ## 1. Какие бывают звуки речи?
 

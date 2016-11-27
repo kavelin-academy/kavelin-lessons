@@ -4,12 +4,16 @@
            "theme-api": {
            "languages": [
              	 {
-     	         "lang": "nt",
+     	         "lang": "notes",
         	      "name": "Подсказки на полях",
             	  "default": true
              	 },
             	  {
-             	 "lang": "ex",
+             	 "lang": "tests",
+             	 "name": "Тесты"
+            	  },
+		 {
+             	 "lang": "practise",
              	 "name": "Упражнения"
             	  }
               ],

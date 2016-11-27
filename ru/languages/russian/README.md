@@ -26,7 +26,7 @@
 
 Текст взят от [сюда](http://kopilkasovetov.com/instrumentarii/zachem-nam-umet-gramotno-pisat) для примера.
 
-{% sample lang="nt" -%} 
+{% sample lang="notes" -%} 
 
 *Содержание курса:*
 
@@ -58,7 +58,7 @@
   * Наречие
   * Служебные части речи и междометие
 
-{% sample lang="ex" -%} 
+{% sample lang="tests" -%} 
 
 Здесь что-то потом будет :-) 
 

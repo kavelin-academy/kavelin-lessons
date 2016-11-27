@@ -20,8 +20,6 @@
 
 Давайте разберемся:
 
-{%youtube%}fQZsPCm3Xjw{%endyoutube%}
-
 {% sample lang="notes" -%}
 
 Узнаешь, какие бывают звуки речи и как их записывать.
@@ -476,3 +474,5 @@
 * Из чего состоит слово
 
 {% endmethod %}
+
+{%youtube%}fQZsPCm3Xjw{%endyoutube%}

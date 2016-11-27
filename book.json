@@ -9,7 +9,7 @@
             	  "default": true
              	 },
             	  {
-             	 "lang": "tests",
+             	 "lang": "test",
              	 "name": "Тесты"
             	  },
 		 {

@@ -63,5 +63,3 @@
 Здесь что-то потом будет :-) 
 
 {% endmethod %}
-
-{%youtube%}BgfgpyIPpMk{%endyoutube%}
